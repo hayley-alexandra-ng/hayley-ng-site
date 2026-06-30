@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" fill="none">
+  <!-- Phase 4: Incentivization & Packaging - Abstract gift/package with ribbons and celebration -->
+  <rect width="400" height="240" fill="#FDF2F0"/>
+  <!-- Background organic blobs -->
+  <ellipse cx="200" cy="200" rx="120" ry="50" fill="#E8C4C0" opacity="0.2"/>
+  <ellipse cx="320" cy="80" rx="60" ry="50" fill="#D4A5A0" opacity="0.15"/>
+  <!-- Abstract package/box -->
+  <rect x="145" y="80" width="110" height="100" rx="6" fill="white" stroke="#C17A7A" stroke-width="2"/>
+  <!-- Ribbon -->
+  <rect x="195" y="80" width="10" height="100" fill="#B56B6B" opacity="0.6"/>
+  <rect x="145" y="120" width="110" height="10" fill="#B56B6B" opacity="0.6"/>
+  <!-- Bow -->
+  <ellipse cx="200" cy="75" rx="20" ry="12" fill="#C17A7A" opacity="0.6"/>
+  <ellipse cx="200" cy="75" rx="8" ry="5" fill="#A85C5C" opacity="0.7"/>
+  <path d="M180 75 Q170 60 185 55" stroke="#B56B6B" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M220 75 Q230 60 215 55" stroke="#B56B6B" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Confetti/celebration elements -->
+  <rect x="80" y="50" width="8" height="3" rx="1.5" fill="#C89090" opacity="0.6" transform="rotate(25 84 51.5)"/>
+  <rect x="310" y="60" width="8" height="3" rx="1.5" fill="#D4A5A0" opacity="0.5" transform="rotate(-15 314 61.5)"/>
+  <rect x="100" y="150" width="6" height="3" rx="1.5" fill="#B56B6B" opacity="0.4" transform="rotate(40 103 151.5)"/>
+  <rect x="330" y="140" width="8" height="3" rx="1.5" fill="#C17A7A" opacity="0.5" transform="rotate(-30 334 141.5)"/>
+  <rect x="70" y="100" width="6" height="3" rx="1.5" fill="#E8C4C0" opacity="0.6" transform="rotate(10 73 101.5)"/>
+  <!-- Floating circles -->
+  <circle cx="60" cy="70" r="5" fill="#D4A5A0" opacity="0.4"/>
+  <circle cx="340" cy="170" r="6" fill="#C89090" opacity="0.4"/>
+  <circle cx="90" cy="200" r="4" fill="#B56B6B" opacity="0.3"/>
+  <circle cx="300" cy="200" r="5" fill="#E8C4C0" opacity="0.5"/>
+  <!-- Arrow pointing outward - distribution -->
+  <path d="M270 130 L310 130" stroke="#A85C5C" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+  <path d="M302 124 L310 130 L302 136" stroke="#A85C5C" stroke-width="2" opacity="0.4" fill="none" stroke-linecap="round"/>
+  <path d="M270 110 L300 90" stroke="#A85C5C" stroke-width="2" opacity="0.3" stroke-linecap="round"/>
+  <path d="M293 86 L300 90 L294 96" stroke="#A85C5C" stroke-width="2" opacity="0.3" fill="none" stroke-linecap="round"/>
+  <!-- Stars/sparkles -->
+  <path d="M330 110 L332 105 L334 110 L332 115Z" fill="#C17A7A" opacity="0.5"/>
+  <path d="M60 140 L62 136 L64 140 L62 144Z" fill="#D4A5A0" opacity="0.4"/>
+</svg>

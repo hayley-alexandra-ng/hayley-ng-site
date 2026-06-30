@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" fill="none">
+  <!-- Phase 1: Diagnostic / Survey - Abstract data visualization with soft organic shapes -->
+  <rect width="400" height="240" fill="#FDF2F0"/>
+  <!-- Soft background blobs -->
+  <ellipse cx="80" cy="120" rx="60" ry="80" fill="#E8C4C0" opacity="0.4"/>
+  <ellipse cx="320" cy="100" rx="50" ry="70" fill="#D4A5A0" opacity="0.3"/>
+  <ellipse cx="200" cy="180" rx="90" ry="40" fill="#C89090" opacity="0.2"/>
+  <!-- Abstract chart bars representing survey data -->
+  <rect x="100" y="140" width="24" height="60" rx="12" fill="#C17A7A" opacity="0.7"/>
+  <rect x="140" y="110" width="24" height="90" rx="12" fill="#B56B6B" opacity="0.8"/>
+  <rect x="180" y="80" width="24" height="120" rx="12" fill="#A85C5C" opacity="0.85"/>
+  <rect x="220" y="100" width="24" height="100" rx="12" fill="#B56B6B" opacity="0.75"/>
+  <rect x="260" y="130" width="24" height="70" rx="12" fill="#C17A7A" opacity="0.65"/>
+  <!-- Floating dots like data points -->
+  <circle cx="60" cy="60" r="6" fill="#D4A5A0" opacity="0.6"/>
+  <circle cx="90" cy="45" r="4" fill="#C89090" opacity="0.5"/>
+  <circle cx="330" cy="50" r="5" fill="#E8C4C0" opacity="0.7"/>
+  <circle cx="350" cy="180" r="8" fill="#D4A5A0" opacity="0.4"/>
+  <circle cx="50" cy="190" r="5" fill="#C89090" opacity="0.5"/>
+  <!-- Subtle connecting lines -->
+  <path d="M60 60 Q120 30 180 80" stroke="#B56B6B" stroke-width="1.5" opacity="0.3" fill="none"/>
+  <path d="M220 100 Q280 70 330 50" stroke="#C17A7A" stroke-width="1.5" opacity="0.3" fill="none"/>
+  <!-- Magnifying glass abstraction -->
+  <circle cx="310" cy="160" r="25" stroke="#A85C5C" stroke-width="3" opacity="0.5" fill="none"/>
+  <line x1="328" y1="178" x2="345" y2="195" stroke="#A85C5C" stroke-width="3" opacity="0.5" stroke-linecap="round"/>
+</svg>

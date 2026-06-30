@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 200" fill="none">
+  <!-- Background -->
+  <rect width="400" height="200" fill="#FDF8F0"/>
+
+  <!-- Clip for profile photo -->
+  <defs>
+    <clipPath id="profileClip">
+      <circle cx="200" cy="62" r="22"/>
+    </clipPath>
+  </defs>
+
+  <!-- Welcome figure (you) - profile photo as head -->
+  <image href="/profile.png" x="178" y="40" width="44" height="44" clip-path="url(#profileClip)" preserveAspectRatio="xMidYMid slice"/>
+  <circle cx="200" cy="62" r="22" stroke="#7A3300" stroke-width="2.5" fill="none"/>
+  <path d="M200 84 L200 126" stroke="#7A3300" stroke-width="4" stroke-linecap="round"/>
+  <path d="M200 96 L170 80" stroke="#7A3300" stroke-width="4" stroke-linecap="round"/>
+  <path d="M200 96 L230 80" stroke="#7A3300" stroke-width="4" stroke-linecap="round"/>
+  <path d="M200 126 L185 156" stroke="#7A3300" stroke-width="4" stroke-linecap="round"/>
+  <path d="M200 126 L215 156" stroke="#7A3300" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- New hire 1 - left -->
+  <circle cx="110" cy="90" r="13" fill="#C4A882"/>
+  <path d="M110 103 L110 135" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 112 L98 125" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 112 L122 125" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 135 L102 158" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 135 L118 158" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- New hire 2 - right -->
+  <circle cx="290" cy="90" r="13" fill="#C4A882"/>
+  <path d="M290 103 L290 135" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 112 L278 125" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 112 L302 125" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 135 L282 158" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+  <path d="M290 135 L298 158" stroke="#C4A882" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- New hire 3 - far left -->
+  <circle cx="60" cy="100" r="11" fill="#D4C4A8" opacity="0.7"/>
+  <path d="M60 111 L60 138" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M60 138 L54 158" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M60 138 L66 158" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- New hire 4 - far right -->
+  <circle cx="340" cy="100" r="11" fill="#D4C4A8" opacity="0.7"/>
+  <path d="M340 111 L340 138" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M340 138 L334 158" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M340 138 L346 158" stroke="#D4C4A8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Welcome sparkles -->
+  <circle cx="165" cy="50" r="3" fill="#7A3300" opacity="0.4"/>
+  <circle cx="235" cy="45" r="2.5" fill="#7A3300" opacity="0.3"/>
+  <circle cx="175" cy="35" r="2" fill="#7A3300" opacity="0.25"/>
+  <circle cx="225" cy="32" r="2" fill="#7A3300" opacity="0.25"/>
+
+  <!-- Welcoming arcs -->
+  <path d="M155 62 C155 30 200 20 200 20" stroke="#7A3300" stroke-width="1.5" stroke-linecap="round" opacity="0.2" fill="none"/>
+  <path d="M245 62 C245 30 200 20 200 20" stroke="#7A3300" stroke-width="1.5" stroke-linecap="round" opacity="0.2" fill="none"/>
+
+  <!-- "Welcome" text -->
+  <text x="200" y="185" text-anchor="middle" font-family="serif" font-size="14" fill="#7A3300" opacity="0.6" font-style="italic">Welcome aboard</text>
+</svg>

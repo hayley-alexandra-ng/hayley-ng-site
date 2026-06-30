@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" fill="none">
+  <!-- Phase 2: Learning Sessions - Abstract classroom/streaming with warm organic shapes -->
+  <rect width="400" height="240" fill="#FDF2F0"/>
+  <!-- Soft background wash -->
+  <ellipse cx="200" cy="120" rx="160" ry="100" fill="#E8C4C0" opacity="0.25"/>
+  <ellipse cx="100" cy="80" rx="70" ry="50" fill="#D4A5A0" opacity="0.2"/>
+  <!-- Abstract screen/presentation -->
+  <rect x="120" y="50" width="160" height="100" rx="8" fill="white" stroke="#C17A7A" stroke-width="2" opacity="0.8"/>
+  <rect x="135" y="65" width="50" height="6" rx="3" fill="#D4A5A0" opacity="0.7"/>
+  <rect x="135" y="80" width="80" height="4" rx="2" fill="#E8C4C0" opacity="0.6"/>
+  <rect x="135" y="92" width="65" height="4" rx="2" fill="#E8C4C0" opacity="0.6"/>
+  <rect x="135" y="104" width="110" height="4" rx="2" fill="#E8C4C0" opacity="0.5"/>
+  <rect x="135" y="116" width="90" height="4" rx="2" fill="#E8C4C0" opacity="0.5"/>
+  <!-- Play button -->
+  <polygon points="250,95 250,115 268,105" fill="#A85C5C" opacity="0.6"/>
+  <!-- Abstract audience dots - people watching -->
+  <circle cx="130" cy="190" r="10" fill="#C89090" opacity="0.5"/>
+  <circle cx="160" cy="195" r="10" fill="#B56B6B" opacity="0.5"/>
+  <circle cx="190" cy="192" r="10" fill="#D4A5A0" opacity="0.5"/>
+  <circle cx="220" cy="196" r="10" fill="#C17A7A" opacity="0.5"/>
+  <circle cx="250" cy="190" r="10" fill="#C89090" opacity="0.5"/>
+  <circle cx="280" cy="194" r="10" fill="#B56B6B" opacity="0.4"/>
+  <!-- Wifi/streaming waves -->
+  <path d="M320 70 Q330 60 340 70" stroke="#C17A7A" stroke-width="2" opacity="0.4" fill="none" stroke-linecap="round"/>
+  <path d="M315 60 Q330 45 345 60" stroke="#C17A7A" stroke-width="2" opacity="0.3" fill="none" stroke-linecap="round"/>
+  <path d="M310 50 Q330 30 350 50" stroke="#C17A7A" stroke-width="2" opacity="0.2" fill="none" stroke-linecap="round"/>
+  <!-- Sparkle accents -->
+  <path d="M70 100 L73 93 L76 100 L73 107Z" fill="#D4A5A0" opacity="0.5"/>
+  <path d="M350 150 L352 145 L354 150 L352 155Z" fill="#C89090" opacity="0.4"/>
+  <path d="M60 170 L62 166 L64 170 L62 174Z" fill="#E8C4C0" opacity="0.5"/>
+</svg>
